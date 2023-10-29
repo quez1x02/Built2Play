@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+.card{
+    height: 546px;
+    width: 420px;
+    margin-top: 40px;
+}
+div{
+    display: inline-block;
+}
+.left{
+    float: left;
+    margin-left: 23vw;
+}
+.right{
+    float: right;
+    margin-right: 23vw;
+}
+a{
+    text-decoration: none;
+    color: rgb(134, 134, 134);
+    text-align: center;
+    margin: 15px 20px;
+}
+.img-text{
+    text-decoration: none;
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(182, 182, 182);
+}
+h2{
+    color: rgb(133, 133, 133);
+    font-family: 'Playfair Display', serif;
+}
+p{
+    color: rgb(138, 138, 138);
+    font-family: 'Playfair Display', serif;
+}
+nav{
+    display: inline-block;
+    text-align: center;
+    margin-left: 700px;
+}
+button{
+
+}
